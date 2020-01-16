@@ -1,0 +1,24 @@
+html, body, h1, h2 {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+ul, li {
+  text-decoration: none;
+  list-style: none;
+  list-style-type: none;
+  display: inline-flex;
+}
+
+li {
+  font-size: 12px;
+  color: white;
+}
+
+#mapping {
+  height: 680px;
+}
+
+#list {
+  text-align: center;
+}
+
